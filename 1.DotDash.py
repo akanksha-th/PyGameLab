@@ -2,6 +2,7 @@ import pygame
 
 pygame.init()
 screen = pygame.display.set_mode((1280,720))
+pygame.display.set_caption("Dot Dash)
 clock = pygame.time.Clock()
 dt = 0
 running = True
