@@ -49,8 +49,12 @@ while running:
     if character_x > w or character_x < 0:
         screen.fill("black")
         font = pygame.font.Font(None, 40)
-        text = font.render("Game Over!! RESTARTING.....", True, 'red')
-        screen.blit(text, (w // 2 - 150, h // 2 ))
+        text1 = font.render("Game Over!!", True, 'red')
+        text2 = font.render("RESTARTING.....", True, 'red')
+        text1_rect = text1.get_rect(center=(w // 2, h // 2 - 20))
+        text2_rect = text2.get_rect(center=(w // 2, h // 2 + 20))
+        screen.blit(text1, text1_rect)
+        screen.blit(text2, text2_rect)
         pygame.display.flip()
         pygame.time.delay(2000)
         character_x, character_y = 0, h-sprite_h
