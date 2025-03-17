@@ -1,5 +1,5 @@
 # PyGameLab
-Just having fun with Pygame! 🎮 Learning by building one small game per day—some might be cool, some might be weird, but all are part of the journey.
+Just having fun with Pygame! 🎮 Learning by building one small game at a time — some might be cool, some might be lame, but all are part of the journey.
 
 Below is a brief description of each project along with key takeaways from the development process.
 ### 1. DotDash
