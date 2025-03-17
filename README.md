@@ -23,7 +23,7 @@ Description:
 A classic brick-breaking game where a player-controlled paddle bounces a ball to break bricks.
 
 What I Learned:
-- The difference between shape objects (Rect) and placeholders (rect).
+- The difference between shape objects (pygame.draw.rect()) and placeholders- for positioning & collision detection (pygame.Rect()).
 - How to implement collision detection and control object movement using logic.
 
 Preview:
