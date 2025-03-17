@@ -2,6 +2,7 @@
 Just having fun with Pygame! 🎮 Learning by building one small game at a time — some might be cool, some might be lame, but all are part of the journey.
 
 Below is a brief description of each project along with key takeaways from the development process.
+
 --------------------------------------------------------
 
 ### 1. DotDash
@@ -14,6 +15,7 @@ What I Learned:
 
 Preview:
 ![Game Preview](demo_images/DotDash_demo.png)
+
 --------------------------------------------------------
 
 ### 2. BrickBreaker
@@ -26,6 +28,7 @@ What I Learned:
 
 Preview:
 ![Game Preview](demo_images/BrickBreaker_demo.png)
+
 --------------------------------------------------------
 
 ### 3. BouncingBall
@@ -40,6 +43,7 @@ What I Learned:
 
 Preview:
 ![Game Preview](demo_images/BouncingBall_demo.png)
+
 --------------------------------------------------------
 
 ### 4. RunToTheEdge
@@ -53,4 +57,5 @@ What I Learned:
 
 Preview:
 ![Game Preview](demo_images/RunToTheEdge_demo.png)
+
 --------------------------------------------------------
