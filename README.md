@@ -22,7 +22,7 @@ What I Learned:
     How to implement collision detection and control object movement using logic.
 
 Preview:
-
+![Game Preview](demo_images/BrickBreaker_demo.png)
 --------------------------------------------------------
 ### 3. BouncingBall
 Description:
@@ -35,7 +35,7 @@ What I Learned:
     Learned how to implement a game restart feature.
 
 Preview:
-
+![Game Preview](demo_images/BouncingBall_demo.png)
 --------------------------------------------------------
 ### 4. RunToTheEdge
 Description:
@@ -47,5 +47,5 @@ What I Learned:
     Implemented a game restart feature.
 
 Preview:
-
+![Game Preview](demo_images/RunToTheEdge_demo.png)
 --------------------------------------------------------
