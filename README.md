@@ -11,7 +11,7 @@ What I Learned:
     How to display text on the screen.
 
 Preview:
-
+![Game Preview](demo_images/DotDash_demo.png)
 --------------------------------------------------------
 ### 2. BrickBreaker
 Description:
