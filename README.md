@@ -10,8 +10,8 @@ Description:
 A simple game where a circle moves across the screen using the WASD keys. The game introduces basic movement mechanics.
 
 What I Learned:
-    How to draw objects (like circles) on the screen using Pygame.
-    How to display text on the screen.
+- How to draw objects (like circles) on the screen using Pygame.
+- How to display text on the screen.
 
 Preview:
 ![Game Preview](demo_images/DotDash_demo.png)
