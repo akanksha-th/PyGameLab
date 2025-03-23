@@ -44,7 +44,7 @@ A visualization game with four paddles and a bouncing ball. The left and right p
 - Attempted to extend knowledge from the BrickBreaker game.
 - The complexity of multi-directional controls made the game difficult to manage.
 - This game needs fixing to improve playability.
-- Learned how to implement a game restart feature.
+- Learned how to detect win condition and how to implement a game restart feature.
 
 **Preview:**
 
@@ -65,5 +65,20 @@ A game where a sprite character moves left and right using arrow keys to reach t
 **Preview:**
 
 ![Game Preview](demo_images/RunToTheEdge_demo.png)
+
+--------------------------------------------------------
+
+### 5. Flappy Ball
+**Description:**
+
+A simple physics-based game where a ball falls due to gravity and jumps when the spacebar is pressed. The goal is to reach the top of the screen to win. If successful, the game displays a "You Win!" message and restarts after 10 seconds.
+
+**What I Learned:**
+- How to apply gravity and jump mechanics in Pygame.
+- How to display a win message dynamically.
+
+**Preview:**
+
+![Game Preview](demo_images/FlappyBall_demo.png)
 
 --------------------------------------------------------
